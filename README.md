@@ -20,3 +20,5 @@
 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=newtonfalbo&show_icons=true&theme=dark)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=newtonfalbo&layout=compact&theme=tokyonight)
