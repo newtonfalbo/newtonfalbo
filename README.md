@@ -4,9 +4,7 @@
 🎯 Focado em hacking ético e desenvolvimento de software  
 
 📌 **Projetos em Destaque:**  
-- 🚀 [Análise de Sentimentos com Azure AI](https://github.com/seu-usuario/projeto1)  
 - 🚀 [Cibersecurity | Desafio Santander Bootcamp](https://github.com/newtonfalbo/cibersecurity-desafio-phishing)
-- 🚀 [Machine Learning](https://github.com/newtonfalbo/Machine-Learning) 
 
 📫 Entre em contato:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/newtonfalbo/)
@@ -19,12 +17,14 @@
 ![Pentesting](https://img.shields.io/badge/Pentesting-%23404040?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
-## 📊 Minhas Estatísticas:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=newtonfalbo&show_icons=true&theme=tokyonight)
+## 📊 Minhas Estatísticas Red Team:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=newtonfalbo&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=newtonfalbo&layout=compact&theme=tokyonight)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=newtonfalbo&layout=compact&theme=dark&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newtonfalbo&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newtonfalbo&theme=dark&fire=ff0000&ring=ff0000&currStreakLabel=ff0000&sideNums=ff0000&background=0d1117)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=newtonfalbo&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=newtonfalbo&bg_color=0d1117&color=c9d1d9&line=ff0000&point=ffffff&area=true&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=newtonfalbo&theme=darkhub&no-frame=true&margin-w=5&title_color=ff0000)
 
