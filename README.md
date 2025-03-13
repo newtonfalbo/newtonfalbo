@@ -1,6 +1,6 @@
 # Olá! 👋 Sou Newton Borges
 
-💻 Desenvolvedor Python | Cybersecurity | Red Team  
+💻 Desenvolvedor/Programador Python | Cybersecurity | Red Team  
 🎯 Focado em hacking ético e desenvolvimento de software  
 
 📌 **Projetos em Destaque:**  
