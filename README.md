@@ -1,7 +1,16 @@
-# Olá! 👋 Sou Newton Borges
+# Olá, eu sou Newton Falbo!
+
+**Sobre mim**
+🚀 Apaixonado por segurança da informação, inteligência artificial e desenvolvimento de sistemas. Busco constantemente aprimorar minhas habilidades e compartilhar conhecimento com a comunidade tech. 
 
 💻 Red Team | Pentest | Segurança da Informação | Desenvolvedor de Software  
 🎯 Focado em hacking ético e desenvolvimento de software  
+
+### 🛠️ Tecnologias & Ferramentas:
+- 🖥️ **Linguagens**: Python, Bash, PowerShell
+- 🔐 **Cybersecurity**: Pentesting, OSINT, Engenharia Reversa, Exploitation, Red Team Operations
+- 🛠️ **Ferramentas**: Metasploit, Burp Suite, Cobalt Strike, Empire, BloodHound, Wireshark
+- 🖥️ **Infraestrutura**: Kali Linux, Windows AD, Docker, Git
 
 📌 **Projetos em Destaque:**  
 - 🚀 [Cibersecurity | Desafio Santander Bootcamp](https://github.com/newtonfalbo/cibersecurity-desafio-phishing)
