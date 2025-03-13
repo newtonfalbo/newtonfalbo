@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! 👋 Sou Newton Borges
 
-<!--
-**newtonfalbo/newtonfalbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Python | Cybersecurity | Red Team  
+🎯 Focado em hacking ético e desenvolvimento de software  
 
-Here are some ideas to get you started:
+📌 **Projetos em Destaque:**  
+- 🚀 [Análise de Sentimentos com Azure AI](https://github.com/seu-usuario/projeto1)  
+- 🚀 [Cibersecurity | Desafio Santander Bootcamp](https://github.com/newtonfalbo/cibersecurity-desafio-phishing)
+- 🚀 [Machine Learning](https://github.com/newtonfalbo/Machine-Learning) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Entre em contato:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/newtonfalbo/)
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
