@@ -1,6 +1,6 @@
 # Olá! 👋 Sou Newton Borges
 
-💻 Desenvolvedor/Programador Python | Cybersecurity | Red Team  
+💻 Red Team | Pentest | Segurança da Informação | Desenvolvedor de Software  
 🎯 Focado em hacking ético e desenvolvimento de software  
 
 📌 **Projetos em Destaque:**  
@@ -19,13 +19,12 @@
 ![Pentesting](https://img.shields.io/badge/Pentesting-%23404040?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=newtonfalbo&show_icons=true&theme=dark)
+## 📊 Minhas Estatísticas:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=newtonfalbo&layout=compact&theme=tokyonight)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newtonfalbo&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=newtonfalbo&theme=tokyonight)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=newtonfalbo&theme=darkhub)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyonight)
 
