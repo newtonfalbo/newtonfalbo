@@ -5,6 +5,7 @@
 
 📌 **Projetos em Destaque:**  
 - 🚀 [Cibersecurity | Desafio Santander Bootcamp](https://github.com/newtonfalbo/cibersecurity-desafio-phishing)
+- 🚀 [Vulnerability Scanner](https://github.com/newtonfalbo/vulnerability-scanner)
 
 📫 Entre em contato:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/newtonfalbo/)
