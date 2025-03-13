@@ -19,4 +19,4 @@
 ![Pentesting](https://img.shields.io/badge/Pentesting-%23404040?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=newtonfalbo&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=newtonfalbo&show_icons=true&theme=dark)
