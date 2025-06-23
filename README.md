@@ -8,7 +8,7 @@
 🎯 Focado em hacking ético e desenvolvimento de software  
 
 ### 🛠️ Tecnologias & Ferramentas:
-- 🖥️ **Linguagens**: Python, Bash, PowerShell
+- 🖥️ **Linguagens**: Python
 - 🔐 **Cybersecurity**: Pentesting, OSINT, Engenharia Reversa, Exploitation, Red Team Operations
 - 🛠️ **Ferramentas**: Metasploit, Burp Suite, Cobalt Strike, Empire, BloodHound, Wireshark
 - 🖥️ **Infraestrutura**: Kali Linux, Windows AD, Docker, Git
