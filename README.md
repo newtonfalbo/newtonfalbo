@@ -16,7 +16,6 @@
 📌 **Projetos em Destaque:**  
 - 🚀 [Cibersecurity | Desafio Santander Bootcamp](https://github.com/newtonfalbo/cibersecurity-desafio-phishing)
 - 🚀 [Vulnerability Scanner](https://github.com/newtonfalbo/vulnerability-scanner)
-- 🚀 [Infraestrutura como Código](https://github.com/newtonfalbo/infraestrutura-como-codigo)
 - 🚀 [Sistema de Estacionamento | Desafio GFT Start #7 .NET](https://github.com/newtonfalbo/trilha-net-fundamentos-desafio)
 - 🚀 [Sistema de Rastreio | Projeto Pessoal (Em andamento)](https://github.com/newtonfalbo/sistema-de-rastreio)
 
