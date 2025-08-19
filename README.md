@@ -14,9 +14,7 @@
 - 🖥️ **Infraestrutura**: Kali Linux, Windows AD, Docker, Git
 
 📌 **Projetos em Destaque:**  
-- 🚀 [Cibersecurity | Desafio Santander Bootcamp](https://github.com/newtonfalbo/cibersecurity-desafio-phishing)
 - 🚀 [Vulnerability Scanner](https://github.com/newtonfalbo/vulnerability-scanner)
-- 🚀 [Sistema de Estacionamento | Desafio GFT Start #7 .NET](https://github.com/newtonfalbo/trilha-net-fundamentos-desafio)
 - 🚀 [Sistema de Rastreio | Projeto Pessoal (Em andamento)](https://github.com/newtonfalbo/sistema-de-rastreio)
 
 📫 Entre em contato:  
