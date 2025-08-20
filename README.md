@@ -10,7 +10,7 @@
 ### 🛠️ Tecnologias & Ferramentas:
 - 🖥️ **Linguagens**: Python
 - 🔐 **Cybersecurity**: Pentesting, OSINT, Engenharia Reversa, Exploitation, Red Team Operations
-- 🛠️ **Ferramentas**: Metasploit, Burp Suite, Cobalt Strike, Empire, BloodHound, Wireshark
+- 🛠️ **Ferramentas**: Metasploit, Burp Suite, Wireshark
 - 🖥️ **Infraestrutura**: Kali Linux, Windows AD, Git
 
 📌 **Projetos em Destaque:**  
