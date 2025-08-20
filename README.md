@@ -11,7 +11,7 @@
 - 🖥️ **Linguagens**: Python
 - 🔐 **Cybersecurity**: Pentesting, OSINT, Engenharia Reversa, Exploitation, Red Team Operations
 - 🛠️ **Ferramentas**: Metasploit, Burp Suite, Cobalt Strike, Empire, BloodHound, Wireshark
-- 🖥️ **Infraestrutura**: Kali Linux, Windows AD, Docker, Git
+- 🖥️ **Infraestrutura**: Kali Linux, Windows AD, Git
 
 📌 **Projetos em Destaque:**  
 - 🚀 [Vulnerability Scanner](https://github.com/newtonfalbo/vulnerability-scanner)
