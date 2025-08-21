@@ -14,8 +14,8 @@
 - 🖥️ **Infraestrutura**: Kali Linux, Windows AD, Git
 
 📌 **Projetos em Destaque:**  
-- 🚀 [Vulnerability Scanner](https://github.com/newtonfalbo/vulnerability-scanner)
-- 🚀 [Sistema de Rastreio | Projeto Pessoal (Em andamento)](https://github.com/newtonfalbo/sistema-de-rastreio)
+- 🚀 [Vulnerability Scanner (Em desenvolvimento)](https://github.com/newtonfalbo/vulnerability-scanner)
+- 🚀 [Sistema de Rastreio (Em desenvolvimento)](https://github.com/newtonfalbo/sistema-de-rastreio)
 
 📫 Entre em contato:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/newtonfalbo/)
