@@ -11,22 +11,36 @@
 - 🖥️ **Linguagens**: Python
 - 🔐 **Cybersecurity**: Pentesting, OSINT, Engenharia Reversa, Exploitation, Red Team Operations
 - 🛠️ **Ferramentas**: Metasploit, Burp Suite, Wireshark
-- 🖥️ **Infraestrutura**: Kali Linux, Windows AD, Git
+- 🖥️ **Infraestrutura**: Kali Linux, Windows, Git
 
-📌 **Projetos em Destaque:**  
+---
+
+📌 **Projetos Pessoais em Destaque:**  
 - 🚀 [Vulnerability Scanner (Em desenvolvimento)](https://github.com/newtonfalbo/vulnerability-scanner)
 - 🚀 [Sistema de Rastreio (Em desenvolvimento)](https://github.com/newtonfalbo/sistema-de-rastreio)
+
+---
+
+📌 **Projetos Bootcamps da DIO:**  
 - 🚀 [Falbo AI – Agente Financeiro Inteligente com IA Generativa (Em desenvolvimento)](https://github.com/newtonfalbo/dio-lab-bia-do-futuro)
 
-📫 Entre em contato:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/newtonfalbo/)
+---
 
+📫 Entre em contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newtonfalbo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/newtonfalbo1/)
+
+---
+
+🛡️ Áreas de Atuação:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Red Team](https://img.shields.io/badge/Red%20Team-%23FF0000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-%23000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Offensive Security](https://img.shields.io/badge/Offensive%20Security-%23FF5733?style=for-the-badge&logo=linux&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Pentesting-%23404040?style=for-the-badge&logo=wireshark&logoColor=white)
+
 
 
 ## 📊 Minhas Estatísticas Red Team:
