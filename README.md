@@ -4,8 +4,8 @@
 
 🚀 Apaixonado por segurança da informação, inteligência artificial e desenvolvimento de sistemas. Busco constantemente aprimorar minhas habilidades e compartilhar conhecimento com a comunidade tech. 
 
-💻 Red Team | Pentest | Segurança da Informação | Desenvolvedor de Software  
-🎯 Focado em hacking ético e desenvolvimento de software  
+💻 Red Team | Pentest | Segurança da Informação
+🎯 Focado em hacking ético
 
 ### 🛠️ Tecnologias & Ferramentas:
 - 🖥️ **Linguagens**: Python
