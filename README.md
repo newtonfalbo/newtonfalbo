@@ -24,8 +24,8 @@
 ---
 
 📌 **Projetos Bootcamps da DIO:**  
-- 🚀 [Falbo AI – Agente Financeiro Inteligente com IA Generativa (Em desenvolvimento)](https://github.com/newtonfalbo/dio-lab-bia-do-futuro)
-- 🚀 [Explorando IA Generativa Pipeline ETL com Python (Em desenvolvimento)](https://github.com/newtonfalbo/explorando-ia-generativa-pipeline-etl-python)
+- 🚀 [Falbo AI – Agente Financeiro Inteligente com IA Generativa](https://github.com/newtonfalbo/dio-lab-bia-do-futuro)
+- 🚀 [Explorando IA Generativa Pipeline ETL com Python](https://github.com/newtonfalbo/explorando-ia-generativa-pipeline-etl-python.git)
 
 ---
 
